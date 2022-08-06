@@ -1,0 +1,4 @@
+# Ignore the guide text file
+*.txt
+# ignore the data files
+*.csv
