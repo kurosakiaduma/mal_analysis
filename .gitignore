@@ -1,4 +1,8 @@
-# Ignore the guide text file
+# ignore the guide text file
 *.txt
 # ignore the data files
 *.csv
+#ignore VSCode workspaces
+*.code_workspace
+#ignore the notebook checkpoints folder
+.ipynb_checkpoints/
