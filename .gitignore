@@ -3,6 +3,6 @@
 # ignore the data files
 *.csv
 #ignore VSCode workspaces
-*.code_workspace
+*.code-workspace
 #ignore the notebook checkpoints folder
 .ipynb_checkpoints/
