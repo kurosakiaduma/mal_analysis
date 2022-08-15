@@ -9,9 +9,8 @@
 > This dataset encompasses what studio preferences are when it comes to making anime productions as well as the viewership's sentiment towards those productions. 
 ### Animes Dataset
 > Here's a snippet of the **Animes** dataset with a few points on how data was wrangled to fit a cleaner model required for the study.
+>
 >![](img/animes_snip.png) 
->
->
 #### Wrangling Steps Required
 
 > * The **aired** will have to be engineered to contain only the start date of the anime listings.
