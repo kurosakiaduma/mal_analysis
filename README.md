@@ -1,4 +1,4 @@
-# Investigating Studio and Viewership Preferences With MyAnimeList's Data
+# Studio and Viewership Preferences: Analyzing MyAnimeList's Data
 ## **by [Tevin Aduma](https://www.linkedin.com/in/tevin-aduma-926803ab/)**
 
 
