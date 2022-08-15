@@ -1,4 +1,5 @@
-# ![](img/udacity.png)Studio and Viewership Preferences: Analyzing MyAnimeList's Data
+![](img/udacity.png)
+# Studio and Viewership Preferences: Analyzing MyAnimeList's Data
 ## **by [Tevin Aduma](https://www.linkedin.com/in/tevin-aduma-926803ab/)**
 
 
