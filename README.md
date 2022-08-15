@@ -34,8 +34,8 @@
 
 ### Reviews Dataset
 > Here is a snippet of the Reviews dataset and the a summary of the processes taken to impute the data in the required format.
-> ![](img/reviews_snip.png)
 >
+> ![](img/reviews_snip.png)
 
 #### Wrangling Steps Required
 
